@@ -1,6 +1,4 @@
-# Create a comprehensive README
-echo '# React Tutorial Project
-
+# React Project Tutorial
 My first React application following the official tutorial.
 
 ## Technologies Used
@@ -20,7 +18,3 @@ npm run dev
 - CSS styling in React
 - Git version control
 ' > README.md
-
-git add README.md
-git commit -m 'Add comprehensive README documentation'
-git push origin main
